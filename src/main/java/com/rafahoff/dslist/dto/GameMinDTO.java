@@ -1,7 +1,6 @@
 package com.rafahoff.dslist.dto;
 
 import com.rafahoff.dslist.entities.Game;
-import jakarta.persistence.Column;
 
 public class GameMinDTO {
 
